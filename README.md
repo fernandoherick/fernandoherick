@@ -1,5 +1,5 @@
 ## Olá, Sou o Fernando Herick!
-Apaixonado por tecnologia, atualmente estudando algumas linguagens de programação
+Apaixonado por tecnologia & carros!, atualmente estudando algumas linguagens de programação
 
 ## Tecnologias que estou estudando
 <div style="display: inline_block">
