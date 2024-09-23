@@ -10,8 +10,8 @@ Apaixonado por tecnologia, atualmente estudando algumas linguagens de programaç
 </div>
 
 ## Estátisticas
-![fernand0herick Status](https://github-readme-stats.vercel.app/api?username=fernand0herick&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  
-![fernand0herick Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernand0herick&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![fernand0herick Status](https://github-readme-stats.vercel.app/api?username=fernand0herick&show_icons=true&theme=radical)
+![fernand0herick Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernand0herick&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ## Contatos
 <div>
