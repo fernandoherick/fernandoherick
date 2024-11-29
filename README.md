@@ -22,7 +22,7 @@
 ### Studying in this moment:
 ![Html](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=HTML5&logoColor=A200FF)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=CSS3&logoColor=A200FF)&nbsp;
-![Javascript](https://img.shields.io/badge/-JavaScripy-0D1117?style=flat-square&logo=Javascript&logoColor=A200FF)&nbsp;
+![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=Javascript&logoColor=A200FF)&nbsp;
 
 ## Contacts
 <div>
