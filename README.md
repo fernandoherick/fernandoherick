@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo HTML, CSS & javaScript.<br>🎯 Objetivos: Virar um desenvolvedor bom futuramente.<br>🎲 Curiosidade: Todas as linguagens.</p>
+<p align="left">📚 Atualmente estou aprendendo HTML, CSS & javaScript. Estou tambem criando uma comunidade para pessoas quue querem desenvolver bots de discord<br>🎯 Objetivos: Virar um desenvolvedor bom futuramente.<br>🎲 Curiosidade: Todas as linguagens.</p>
 
 ###
 
