@@ -1,4 +1,4 @@
-<h1 align="left">Ola pessoal, sou o Fernando e esse é meu githun</h1>
+<h1 align="left">Ola pessoal, sou o Fernando e esse é meu github</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo HTML, CSS & javaScript. Estou tambem criando uma comunidade para pessoas quue querem desenvolver bots de discord<br>🎯 Objetivos: Virar um desenvolvedor bom futuramente.<br>🎲 Curiosidade: Todas as linguagens.</p>
+<p align="left">📚 Atualmente estou aprendendo HTML, CSS & javaScript. Estou tambem criando uma loja de site, jogos e streaming<br>🎯 Objetivos: Virar um desenvolvedor bom futuramente.<br>🎲 Curiosidade: Todas as linguagens.</p>
 
 ###
 
